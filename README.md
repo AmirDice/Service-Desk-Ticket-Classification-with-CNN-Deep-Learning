@@ -1,5 +1,5 @@
 # Service-Desk-Ticket-Classification-with-CNN-Deep-Learning
-![Uploading no-people-desk-with-multiple-computers-call-center-office-used-by-telemarketing-agents-answer-phone-calls-helpline-empty-space-with-technology-give-assistance-customer-care.jpg…]()
+![servicedesk](https://github.com/user-attachments/assets/674e9c66-2929-4702-b200-6e0143261bde)
 
 ## Project Description
 Effective management of service desk tickets is essential for maintaining customer satisfaction. This project utilizes deep learning to develop a reliable and precise classifier that automatically categorizes incoming tickets into predefined groups, optimizing service desk operations.
